@@ -1,0 +1,3 @@
+El estudiante: jhon identificado con numero de cédula: 
+11212 se ha matriculado al curso de: Matematicas
+el cual tiene una duración de: 4 meses y cuesta: $ 400.000
