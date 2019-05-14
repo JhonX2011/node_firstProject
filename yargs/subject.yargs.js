@@ -1,18 +1,21 @@
 const options = {
     name: {
+        default: '',
         demand: true,
         alias: 'n'
     },
     cedula: {
+        default: '',
         demand: true,
         alias: 'c'
     },
     course_id: {
+        default: '',
         demand: true,
         alias: 's'
     },
-    matricularme: {
-        alias: 'm'
+    inscribirse: {
+        alias: 'i'
     }
 }
 
