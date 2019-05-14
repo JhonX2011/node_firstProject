@@ -1,5 +1,7 @@
 #Primera entrega del curso de Node.js
 
+#Recomendación, antes de ejecutar el proyecto recuerde ejecutar "npm i" para instalar el modulo de yargs.
+
 #Comandos útiles:
 
 #- node index info -l //Este comando lista los cursos disponibles para matricularse
